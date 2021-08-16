@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Domain.Entities.Facture>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td>
+                <div>
+                    Recherche par Prix: @Html.TextBox("prix")
+                </div>
+            </td>
+            <td> <input type="submit" value="Search" id="submit" /> </td>
+        </tr>
+    </table>
+}
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Client.Prenom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateAchat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prix)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.Client.Prenom)
+
+                </td>*@
+            <td>
+                @Html.ActionLink(linkText: item.Client.Prenom, actionName: "InfoClient", controllerName: "Clients", routeValues: new { id = item.Client.Cin }, htmlAttributes: null)
+            </td>
+            @*<td>
+                    @Html.DisplayFor(modelItem => item.Product.Name)
+                </td>*@
+            <td>
+                @Html.ActionLink(linkText: item.Product.Name, actionName: "_Details", controllerName: "Products", routeValues: new { id = item.Product.ProductId }, htmlAttributes: null)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateAchat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prix)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { Productid = item.Productid, ClientId = item.ClientId, DateAchat = item.DateAchat }) |
+                @Html.ActionLink("Details", "Details", new { Productid = item.Productid, ClientId = item.ClientId, DateAchat = item.DateAchat }) |
+                @Html.ActionLink("Delete", "Delete", new { Productid = item.Productid, ClientId = item.ClientId, DateAchat = item.DateAchat })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,55 @@
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\bin\Debug\Data.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\bin\Debug\Data.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\obj\Debug\Data.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\obj\Debug\Data.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\bin\Debug\Data.dll.config
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\bin\Debug\Domain.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\bin\Debug\EntityFramework.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\bin\Debug\Domain.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\bin\Debug\EntityFramework.xml
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Data\obj\Debug\Data.Migrations.AddTable.resources
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\bin\Debug\Data.dll.config
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\bin\Debug\Data.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\bin\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\bin\Debug\Domain.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\bin\Debug\EntityFramework.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\bin\Debug\Domain.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\bin\Debug\EntityFramework.xml
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\obj\Debug\Data.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Data\obj\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\bin\Debug\Data.dll.config
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\bin\Debug\Data.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\bin\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\bin\Debug\Domain.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\bin\Debug\EntityFramework.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\bin\Debug\Domain.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\bin\Debug\EntityFramework.xml
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\obj\Debug\Data.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Data\obj\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\bin\Debug\Data.dll.config
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\bin\Debug\Data.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\bin\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\bin\Debug\Domain.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\bin\Debug\EntityFramework.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\bin\Debug\Domain.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\bin\Debug\Domain.dll.config
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\bin\Debug\EntityFramework.xml
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\obj\Debug\Data.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\obj\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\obj\Debug\Data.Migrations.lstupdate.resources
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Data\obj\Debug\Data.csproj.GenerateResource.cache

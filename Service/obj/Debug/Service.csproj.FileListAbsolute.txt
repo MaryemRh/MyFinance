@@ -1,0 +1,75 @@
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\bin\Debug\Service.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\bin\Debug\Service.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\obj\Debug\Service.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\obj\Debug\Service.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\bin\Debug\Data.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\bin\Debug\Domain.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\bin\Debug\Data.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\bin\Debug\Domain.pdb
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\bin\Debug\EntityFramework.dll
+C:\Users\tarek ayari\Documents\Visual Studio 2013\Projects\MyFinance\Service\bin\Debug\EntityFramework.xml
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\bin\Debug\Service.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\bin\Debug\Service.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\bin\Debug\Data.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\bin\Debug\Domain.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\bin\Debug\EntityFramework.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\bin\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\bin\Debug\Domain.pdb
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\bin\Debug\EntityFramework.xml
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\obj\Debug\Service.dll
+C:\Users\Tarek\Desktop\Esprit\Correction_TP_Solution\step9\MyFinance_step9\Service\obj\Debug\Service.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\bin\Debug\Service.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\bin\Debug\Service.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\bin\Debug\Data.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\bin\Debug\Domain.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\bin\Debug\EntityFramework.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\bin\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\bin\Debug\Domain.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\bin\Debug\EntityFramework.xml
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\obj\Debug\Service.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10_Recherche_Upload\MyFinance_step10\Service\obj\Debug\Service.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\obj\Debug\Service.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\obj\Debug\Service.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\bin\Debug\Service.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\bin\Debug\Service.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\bin\Debug\Data.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\bin\Debug\Domain.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\bin\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\bin\Debug\Data.dll.config
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\bin\Debug\Domain.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\bin\Debug\Domain.dll.config
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\bin\Debug\EntityFramework.xml
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step10\MyFinance_step10\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\bin\Debug\Service.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\bin\Debug\Service.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\bin\Debug\Data.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\bin\Debug\Domain.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\bin\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\bin\Debug\Data.dll.config
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\bin\Debug\Domain.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\bin\Debug\Domain.dll.config
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\bin\Debug\EntityFramework.xml
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\obj\Debug\Service.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step11\MyFinance_step11\Service\obj\Debug\Service.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\bin\Debug\Service.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\bin\Debug\Service.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\bin\Debug\Data.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\bin\Debug\Domain.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\bin\Debug\Data.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\bin\Debug\Data.dll.config
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\bin\Debug\Domain.pdb
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\bin\Debug\Domain.dll.config
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\bin\Debug\EntityFramework.xml
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\obj\Debug\Service.dll
+C:\Users\Tarek\Desktop\Ecole\Correction_TP_Solution\step12\MyFinance_step12\Service\obj\Debug\Service.pdb
